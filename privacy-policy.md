@@ -28,7 +28,7 @@ The extension only accesses:
 
 For performance optimization, the extension temporarily stores:
 
-- **Cached professor ratings** in your browser's local storage for up to 24 hours
+- **Cached professor ratings** in your browser's local storage for up to 30 days
 - **Course-instructor mapping data** to avoid redundant API calls
 - This data is stored locally on your device only and is automatically expired/refreshed
 - No personal information is included in this cached data
